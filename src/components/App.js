@@ -14,7 +14,6 @@ class App extends Component {
       pkName: '' //Recojo el valor del filtro
     }
  }
-
       componentDidMount() {
         const URL = 'https://pokeapi.co/api/v2/pokemon/';
         for (let i=1; i <= 25; i++){
