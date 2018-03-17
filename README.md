@@ -2,4 +2,6 @@ Here you can find a list of pokemon. The 25 first, and you can look for a specif
 
 React Router is on its way!
 
-Gotta catch 'em all!
+Gotta catch 'em all!  
+
+T
